@@ -1,0 +1,6 @@
+C:\Users\Lasse\Dropbox\Århus Universitet\4. Semester\SWT\Calculator class\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Lasse\Dropbox\Århus Universitet\4. Semester\SWT\Calculator class\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Lasse\Dropbox\Århus Universitet\4. Semester\SWT\Calculator class\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Lasse\Dropbox\Århus Universitet\4. Semester\SWT\Calculator class\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Lasse\Dropbox\Århus Universitet\4. Semester\SWT\Calculator class\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Lasse\Dropbox\Århus Universitet\4. Semester\SWT\Calculator class\Calculator\Calculator\obj\Debug\Calculator.pdb
